@@ -1,0 +1,55 @@
+01:
+import pandas as pd
+
+caminho = 'C:\Users\Guilherme\Documents\Compass\actors.csv'
+df = pd.read_csv(caminho)
+
+indice_ator_mais_filmes = df['Number of Movies'].idxmax()
+ator_mais_filmes = df.at[indice_ator_mais_filmes, 'Actor']
+numero_filmes = df.at[indice_ator_mais_filmes, 'Number of Movies']
+
+print(f'O ator/atriz com o maior número de filmes é {ator_mais_filmes} com {numero_filmes} filmes.')
+
+02:
+import pandas as pd
+
+caminho_arquivo = 'C:\Users\Guilherme\Documents\Compass\actors.csv'
+df = pd.read_csv(caminho_arquivo)
+
+media_numero_filmes = df['Number of Movies'].mean()
+
+print(f'A média do número de filmes é {media_numero_filmes:.2f}')
+
+03:
+import pandas as pd
+
+arquivo = "C:\Users\Guilherme\Documents\Compass\actors.csv"
+
+
+df = pd.read_csv(arquivo)
+
+df.rename(columns={
+    'Number of Movies': 'numero_de_filmes',
+    'numero_1_filme': '#1 Movie'
+}, inplace=True)
+
+media_por_filme = df['Total Gross'] / df['numero_de_filmes']
+
+atores_atrizes_maior_media = df[media_por_filme == media_por_filme.max()]
+
+
+nome_ator_atriz_maior_media = atores_atrizes_maior_media['Actor'].to_string(index=False)
+
+print("O ator/atriz com a maior média por filme é", nome_ator_atriz_maior_media)
+
+04:
+import pandas as pd
+
+caminho_arquivo = "C:\Users\Guilherme\Documents\Compass\actors.csv"
+
+dados = pd.read_csv(caminho_arquivo)
+
+count_valor = dados['#1 Movie'].value_counts()
+
+for i, (filme, qtd) in enumerate(count_valor.items(), start=1):
+    print(f'{i}- O filme {filme} aparece {qtd} vez(es) no dataset')

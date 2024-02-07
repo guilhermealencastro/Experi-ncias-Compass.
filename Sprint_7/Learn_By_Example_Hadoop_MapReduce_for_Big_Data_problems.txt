@@ -1,0 +1,17 @@
+Seção 2: Este módulo oferece uma visão geral abrangente sobre a importância do Big Data 
+nos dias de hoje. Você entenderá como grandes volumes de dados são gerados diariamente 
+e como as organizações podem se beneficiar da análise desses dados para tomar decisões 
+mais informadas. 
+
+Seção 3: Neste módulo, você aprenderá como instalar o Hadoop em dois modos diferentes:
+Modo Standalone: Você entenderá como configurar e executar o Hadoop em uma única máquina, 
+adequado para fins de desenvolvimento e teste. Modo Pseudo Distribuído: Você configurará 
+o Hadoop em um ambiente onde diferentes componentes do Hadoop são distribuídos em várias 
+máquinas virtuais ou contêineres em uma única máquina física, simulando um ambiente distribuído 
+em menor escala.
+
+Seção 4: Neste módulo prático, você criará um programa MapReduce "Hello World" do zero. 
+Você aprenderá os conceitos básicos do paradigma MapReduce, como mapeamento, redução e 
+como essas etapas funcionam em um ambiente distribuído. Ao concluir este módulo, você terá 
+uma compreensão sólida de como escrever, depurar e executar tarefas MapReduce em um cluster 
+Hadoop.

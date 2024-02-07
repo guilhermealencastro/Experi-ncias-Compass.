@@ -1,0 +1,22 @@
+Seção 2: Você começará com uma introdução à arquitetura do Spark e aprenderá 
+como instalar o Spark e o PySpark em seu ambiente local. O curso oferecerá 
+orientações detalhadas sobre como configurar o ambiente de desenvolvimento.
+
+Seção 3: Você explorará os dois principais abstratos de dados no Spark: DataFrames 
+e RDDs (Resilient Distributed Datasets). Aprenderá como criar, manipular e 
+transformar essas estruturas de dados para realizar análises de dados distribuídas.
+
+Seção 4: O curso cobre o módulo Spark SQL, que permite a execução de consultas SQL 
+diretamente nos DataFrames. Você aprenderá como consultar e processar dados estruturados 
+usando SQL no Spark.
+
+Seção 6: O curso abordará como desenvolver aplicações PySpark do zero. Você aprenderá 
+a escrever códigos PySpark para carregar, transformar e analisar dados em grande escala. 
+Também será orientado sobre como criar pipelines de processamento de dados usando PySpark.
+
+Seção 9: Uma parte significativa do curso se concentra na otimização de aplicações Spark 
+para melhorar o desempenho e a eficiência. Você explorará estratégias de ajuste de 
+configuração, paralelismo, gerenciamento de recursos e armazento.
+
+Seção 10: Nesta seção, foram demonstrados outros aspectos de uso do spark, com notebooks
+do jupyter, o spark UI, a conversão de pandas para o dataframe do spark, etc. 

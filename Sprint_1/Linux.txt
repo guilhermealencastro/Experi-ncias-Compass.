@@ -1,0 +1,24 @@
+    Na seção do linux eu não possuia nenhum conhecimento prévio, então, me requiriu um pouco mais de foco 
+para entender tudo o que estava acontecendo. Por ser uma seção com bastante comandos novos, é necessário
+estar constantemente os revisando até se acostumar com todos, porém, o professor ensina de forma limpa e 
+clara, então, não tive dificuldades em compreende-los. Na parte da instalação da virtual box, ao inserir 
+o cd para que pudessemos finalizar a instalação, a VB apresentou um erro no qual, independente de quantas 
+vezes eu clicasse no executavel, ele não abria, com a ajuda do meu grupo e algumas pesquisas no google, 
+consegui encontrar a solução, e, por meio do terminal, consegui instalar tudo o que o cd instalaria, 
+após isso, não tive nenhum problema.
+
+    Após concluir a instalação do ubuntu e do linux no virtual box, acabei enfrentando um problema com o 
+modo de tela cheia, no qual, por erro nas configurações, ao colocar em tela cheia, a tela ficava completa-
+mente preta. Resolvi o problema ao mudar o modo de resolução de 100% para 120% nas configurações, tendo em 
+vista que o meu monitor tem 27 polegadas, provavelmente esse foi o motivo do erro na resolução, porém, foi 
+algo facilmente resolvivel. 
+
+    Na seção de editores de texto, consegui aprender com facilidade a usar os comandos passados pelo profes-
+sor. Devido a semelhança aos editores do windows, não tive dificuldade. Os comandos são fáceis de aprender e
+reproduzir, porém, por serem muitos, é necessário cuidado para não confundir.
+
+    O filtro de buscas é uma funcionalidade muito interessante para o dia a dia pois acelera bastante um 
+processo no qual poderiamos perder muito tempo, achei muito bom para economizar tempo ao longo dos projetos.
+
+    Por já ter estudado redes na faculdade, tive facilidade na seção de gerenciamento básico de redes, mes-
+mo assim, foi tudo muito bem explicado, e é sempre bom revisar a teoria para fixar na mente.

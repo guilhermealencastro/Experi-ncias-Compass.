@@ -1,0 +1,23 @@
+    Nessa seção aprendi muito sobre os comandos do git, desde como dar um pull até como realizar de 
+maneira correta os commits antes de utilizar o push, foi de grande ajuda pra mim mesmo que eu já 
+tivesse algum conhecimento prévio na área pois agora sinto que consigo fazer muito mais que antes.
+    
+    A principio tive um pouco de dificuldade para me acostumar com os comandos novos, além de que a versão
+do meu git estava atrasada, com isso, acabei enfrentando alguns problemas nos primeiros dois dias,
+por isso, tive que refazer o meu código do zero para corrigir os problemas. Ao realizar o código 
+novamente, consegui completar sem problemas o curso.
+    
+    Ao chegar na seção de branches, consegui realizar sem dificuldades, aprendi claramente como criar, deletar,
+mudar e unir as mesmas, além de também aprender sobre stash e tags.
+
+    Também adquiri conhecimento acerca dos submodules, algo que eu não conhecia, além de como ver os
+detalhes das suas branches e tags, o log de atividades foi um algo que me ajudou muito durante o curso
+porque por meio dele eu conseguia acompanhar sempre o que estava fazendo quando voltava ao código depois
+de um tempo.
+    
+    Por meio do curso, também aprendi várias funcionalidades do GitHub que antes não possuia conhecimento 
+acerca, como por exemplo o de dar permissões para outra pessoa ter acesso ao meu repositório (essa funcionalidade
+, inclusive, foi utilizada nesse exercicio).
+
+    Também melhorei bastante a minha conta do github com as diferentes técnicas que o professor ensinou, 
+inclusive gostei muito da seção 10 onde ele ensina a fazer um portfólio que ficou muito bom.

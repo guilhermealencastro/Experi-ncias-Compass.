@@ -1,0 +1,5 @@
+Nessa parte da atividade, criei um crawler ligado ao
+meu bucket do s3, depois, conectado ao crawler ajustei
+um banco de dados anteriormente existente, e dentro dele
+editei o schema da minha tabela, deixando apenas as colunas
+que eu queria puxar para a minha camada refined.

@@ -1,0 +1,5 @@
+Nessa atividade, criei um job no glue, nesse job,
+criei um código para puxar um arquivo do meu bucket
+no s3 que possuia os arquivos de filmes em formato json,
+transformei os arquivos para o formato parquet e os botei
+na pasta trusted.

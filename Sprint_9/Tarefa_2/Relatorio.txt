@@ -1,0 +1,5 @@
+Nessa tarefa, pra iniciar, criei as dimensões, em cada
+dimensão, adicionei os dados das tabelas referentes. após
+isso, criei a tabela fato locação, que liga como chave pri-
+mária as dimensões antes criadas. Depois, pra finalizar, criei
+as views referentes a cada uma das tabelas.

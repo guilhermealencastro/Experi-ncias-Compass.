@@ -1,0 +1,4 @@
+Nessa ultima parte da atividade, puxei os arquivos parquet
+para a minha camada refined, reduzindo apenas aos 3 filmes que
+eu quero usar na minha apresentação final. Corra, Nós e Não, não
+olhe!

@@ -1,0 +1,86 @@
+CREATE TABLE DimCliente (
+    idCliente INT PRIMARY KEY,
+    nomeCliente VARCHAR(255),
+    cidadeCliente VARCHAR(255),
+    estadoCliente VARCHAR(255),
+    paisCliente VARCHAR(255)
+);
+
+INSERT INTO DimCliente (idCliente, nomeCliente, cidadeCliente, estadoCliente, paisCliente)
+SELECT idCliente, nomeCliente, cidadeCliente, estadoCliente, paisCliente
+FROM Cliente;
+
+
+CREATE TABLE DimCarro (
+    idCarro INT PRIMARY KEY,
+    kmCarro DECIMAL(10, 2),
+    classiCarro VARCHAR(50),
+    marcaCarro VARCHAR(255),
+    modeloCarro VARCHAR(255),
+    anoCarro INT,
+    idcombustivel INT
+);
+
+INSERT INTO DimCarro (idCarro, kmCarro, classiCarro, marcaCarro, modeloCarro, anoCarro, idcombustivel)
+SELECT idCarro, kmCarro, classiCarro, marcaCarro, modeloCarro, anoCarro, idcombustivel
+FROM Carro;
+
+
+CREATE TABLE DimVendedor (
+    idVendedor INT PRIMARY KEY,
+    nomeVendedor VARCHAR(255),
+    sexoVendedor VARCHAR(10),
+    estadoVendedor VARCHAR(255)
+);
+
+INSERT INTO DimVendedor (idVendedor, nomeVendedor, sexoVendedor, estadoVendedor)
+SELECT idVendedor, nomeVendedor, sexoVendedor, estadoVendedor
+FROM Vendedor;
+
+CREATE TABLE FatoLocacao (
+    idLocacao INT PRIMARY KEY,
+    idCliente INT,
+    idCarro INT,
+    idVendedor INT,
+    dataLocacao DATE,
+    horaLocacao TIME,
+    qtdDiaria INT,
+    vlrDiaria DECIMAL,
+    dataEntrega DATE,
+    horaEntrega TIME,
+    FOREIGN KEY (idCliente) REFERENCES DimCliente(idCliente),
+    FOREIGN KEY (idCarro) REFERENCES DimCarro(idCarro),
+    FOREIGN KEY (idVendedor) REFERENCES DimVendedor(idVendedor)
+);
+
+INSERT INTO FatoLocacao
+SELECT *
+FROM Locacao;
+
+VIEWS:
+
+CREATE VIEW VwFatoLocacao AS
+SELECT
+    FL.idLocacao,
+    C.idCliente,
+    CA.idCarro,
+    V.idVendedor,
+    FL.dataLocacao,
+    FL.horaLocacao,
+    FL.qtdDiaria,
+    FL.vlrDiaria,
+    FL.dataEntrega,
+    FL.horaEntrega
+FROM FatoLocacao fl 
+JOIN DimCliente C ON FL.idCliente = C.idCliente
+JOIN DimCarro CA ON FL.idCarro = CA.idCarro
+JOIN DimVendedor V ON FL.idVendedor = V.idVendedor;
+
+CREATE VIEW VwDimCliente AS
+SELECT * FROM DimCliente;
+
+CREATE VIEW VwDimCarro AS
+SELECT * FROM DimCarro;
+
+CREATE VIEW VwDimVendedor AS
+SELECT * FROM DimVendedor;

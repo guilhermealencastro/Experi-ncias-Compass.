@@ -1,0 +1,10 @@
+Nessa tarefa, primeiro criei as novas tabelas, uma por uma, 
+após criar a tabela, usei o comando insert para inserir os 
+dados desejados da tb_locacao na tabela nova, nas tabelas 
+cliente e carro precisei usar o select distinct por existirem
+ids repetidos, o que acabava por conflitar na hora de criar as
+chaves primárias, na tabela carro tive que usar o comando insert
+or ignore para que o mesmo funcionasse, porém, todos os dados foram
+puxados corretamente e as ligações foram perfeitamente realizadas, 
+com todas as chaves primárias setadas e as estrangeiras sendo conec-
+tadas.

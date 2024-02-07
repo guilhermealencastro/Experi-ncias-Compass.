@@ -1,0 +1,44 @@
+Seção 1: Introdução ao curso, nada de diferente do padrão.
+
+Seção 2: Introdução a linguagem python, o que é, para que é utlizada, e suas filosofias, também fomos
+introduzidos aos conceitos de algoritmos e estruturas de dados.
+
+Seção 3: Essa Seção foi focada em configurar o ambiente python, tivemos o passo a passo de como instalar
+tanto o python quanto o anaconda para não ter nenhum problema com as instalações dos mesmos.
+
+Seção 4: Basicamente foi ensinado como executar códigos com python de 3 maneiras diferentes, no cmd, no 
+jupyter e no vscode, no meu caso, usei o vscode durante a maior parte do curso.
+
+Seção 5: No capitulo de fundamentos vimos vários tipos diferentes no python, desde variáveis até operadores
+e seus tipos, também aprendi sobre builtins que eu não conhecia préviamente, não tive muita dificuldade com 
+essa seção por já ter um conhecimento prévio em java, e alguns conceitos são semelhantes.
+
+Seção 7: Capitulo sobre estruturas de controle, mais uma vez não tive muita dificuldade com a teoria por conta
+do conhecimento em java e por serem(em sua maioria) semelhantes, porém, tive uma certa dificuldade para me acos-
+
+tumar com a forma diferente de codar em python, tendo em vista que o java tem uma estrutura de código muito dife-
+rente, porém, continuo exercitando e estou me acostumando.
+
+Seção 9: Na seção 9 aprendemos como criar um arquivo csv, fazer a leitura do mesmo, e também como usar try, finally
+e o bloco with, mais tarde, usamos do conhecimento adquirido nessa seção para realizar um desafio final.
+
+Seção 10: Capitulo sobre comprehension, vimos generators, list comprehension e como fazer a comprehension com dicion-
+ários.
+
+Seção 11: Capitulo sobre funções, vimos desde como criar uma função até como ter acesso a todos os parametros, como
+usar o callable, usar o decorator e como fazer packing e unpacking.
+
+Seção 12: Vimos nessa seção como importar funções diretamente, como usar funções em outro pacote, entendendo um pou-
+co mais de como usar os imports dentro do python.
+
+Seção 13: Capitulo de POO, mais uma vez não tive muita dificuldade por conta da experiencia em outra linguagem, apenas
+algumas questoes com a forma de aplicar o aprendizado, não conhecia, por exemplo, o metodo __iter__, mas consegui apren-
+der ao longo do curso.
+
+Seção 14: Dando continuidade ao conteudo de POO, nesse capitulo aprendemos um pouco mais sobre a mesma, as diferenças 
+entre membros de classe e instancia, os tipos de metodo e como usar heranças multiplas.
+
+Seção 16: Nessa seção vimos sobre gerenciamento de pacotes, aprendemos sobre o PIP e como instala-lo e utilizar de suas
+funções.
+
+Seção 17: Seção final, vimos sobre isolamento de ambientes utilizando o VENV para isso.

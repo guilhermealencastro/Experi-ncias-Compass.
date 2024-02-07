@@ -1,0 +1,4 @@
+    Nesta "seção" dessa sprint, aprendemos sobre o conceito de computação em nuvem, quais
+as tendências na evolução da computação, modelos de implantação de computação em nuvem, etc.
+Também foi explicado o porque da AWS ser tão escolhida nos dias de hoje, quais seus diferen-
+ciais e quais os serviços a AWS disponibiliza para seus clientes.

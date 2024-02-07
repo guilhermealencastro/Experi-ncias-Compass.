@@ -1,0 +1,5 @@
+    Na segunda seção dessa sprint, vimos sobre os benefícios da computação em nuvem, no que
+também um pouco sobre a infraestrutura global da AWS e suas interfaces de gerenciamento, AWS
+management console, AWS CLI(Command Line Interface) e Kits de Desenvolvimento de Software(SDKs)
+e a abrangencia e especialização dos serviços e ofertas da AWS e sobre as tecnologias essenciais:
+computação, armazenamento, bancos de dados e redes.

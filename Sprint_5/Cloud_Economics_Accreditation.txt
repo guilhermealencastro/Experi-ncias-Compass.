@@ -1,0 +1,12 @@
+    Na terceira seção, vi bastante sobre a parte de business, desde a introdução ao valor
+empresarial(TCO), e o gerenciamento financeiro da nuvem que ajuda os clientes a desenvolver 
+os benefícios e habilidades necessárias para conseguir usar a AWS cloud ao máximo. Também vi
+sobre os cost savings, que consiste no quanto você pode economizar ao adquirir os serviços da
+AWS, diminuindo custos em diversas áreas diferentes. Produtividade da equipe, que tende a aumen-
+tar bastante junto a AWS, justamente por retirar os serviços "desnecessários" que consumiam muito 
+tempo da equipe, assim realocando esse tempo para atividades que vão ser mais eficientes. Resilie-
+ncia operacional e seus quatro principais elementos: operações, segurança, software e infraestrutura.
+Agilidade empresarial, que nada mais é do que uma resposta mais rápida, mais experimentação e geraçã-
+o de resultados no mesmo tempo ou em menos tempo, ou seja, aumento de efetividade. E o Cloud Financial
+management ou gerenciamento financeiro na nuvem, que consiste em identificação e investimento em pessoas,
+processos, ferramentas e automação.

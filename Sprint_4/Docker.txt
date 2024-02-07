@@ -1,0 +1,35 @@
+Seção 1: Introdução da trilha, explicação sobre o que é docker, e insta-
+lações dos programas necessários.
+
+Seção 2: Seção sobre containers, o que são, onde usamos, qual a diferenç-
+a entre eles e as imagens e como trabalhar com containers.
+
+Seção 3: Seção sobre imagens, como escolher, como criar sua própria imagem,
+de qual maneira podemos utiliza-las e altera-las, etc.
+
+Seção 4: Introdução de volumes, o que são, quais tipos de volumes e como
+usar cada um deles.
+
+Seção 5: Nesta seção aprendi o que são networks, quais os tipos de cone-
+xão e drivers, como listar networks, criar e remover redes, além de, ini-
+cialmente, entender como funciona o postman e como conectar containers a 
+redes. 
+
+Seção 6: Seção sobre YAML, como criar um arquivo yaml, usar dados numeri-
+cos e strings, além de como usar valores nulos, booleanos, listas e dicio-
+nários, basicamente, aprendemos o basico do que vimos nos outros cursos no
+geral, porém, com um arquivo YAML.
+
+Seção 7: Na sétima seção, aprendi o que é e como usar o docker compose, 
+como rodar ele em background, parar, usar redes no compose, e como buildar
+imagens.
+
+Seção 8: Aprendi sobre docker swarm, o que é, como usar e aplicar os concei-
+tos fundamentais do swarm, as maneiras de executar e como utiliza-lo, além
+de como adicionar maquinasm remover serviços, etc.
+
+Seção 9: Na ultima seção de docker, aprendi sobre kubernetes, o seu conceito,
+quais dependencias são necessárias para utiliza-lo, como usar o minikube, criar
+e verificar deployments, etc.
+
+Seção 11: Final do curso.

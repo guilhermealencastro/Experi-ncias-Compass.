@@ -1,0 +1,3 @@
+Nesta seção, vimos sobre o conceito de programação funcional, o que é,
+como e para o que é usada, de onde surgiu a sua ideia, funções, imutabi-
+lidade, etc. 

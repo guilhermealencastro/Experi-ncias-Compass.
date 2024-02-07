@@ -1,0 +1,4 @@
+Já na seção de python, vimos sobre programação funcional, aprendi sobre
+os seus recursos, os tipos de função, como aplica-las a códigos, também
+sobre maps, filters, reduces, etc. realizamos vários desafios nesta seç-
+ão para fixar o conhecimento adquirido.

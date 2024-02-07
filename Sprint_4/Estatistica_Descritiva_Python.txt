@@ -1,0 +1,22 @@
+Seção 1: Introdução do curso, vimos sobre a importância do data sci-
+ence, entre outras coisas.
+
+Seção 3: Nessa seção, foi revisado sobre o que é estatistica, como 
+funciona, e quais são as medidas e tipos de amostras.
+
+Seção 4: Aprendi como utilizar gráficos no python, qual a importancia
+deles e como aplicar os diferentes tipos.
+
+Seção 5: Na quinta seção, vi sobre media, moda e mediana, como aplicar
+e calcular as 3 no python e como usar medidas separatrizes, e também 
+sobre a função describe().
+
+Seção 6: Seção sobre medidas de dispersão, o que é, como usar e como cal-
+cular por meio de amplitude(total, interquatilica), além do desvio médio e 
+coeficiente de variação.
+
+Seção 7: Nesta seção, vimos sobre medidas de assimetria, o que são, como usar,
+o que é um boxplot e como usa-lo com o python, além também das medidas de curtose.
+
+Seção 8: Seção final da trilha, vimos como aplicar o método de monte carlo e 
+também sobre estatistica descritiva dos dados do titanic como exemplo.

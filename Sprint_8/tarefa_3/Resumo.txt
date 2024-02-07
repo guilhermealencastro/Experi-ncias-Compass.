@@ -1,0 +1,3 @@
+Já nesta seção, usei o python para criar uma lista de forma aleatória,
+depois uma lista contendo o nome de 20 animais em ordem crescente, e,
+para finalizar, uma lista com 10 milhões de nomes aleatórios.

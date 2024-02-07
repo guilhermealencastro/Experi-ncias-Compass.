@@ -1,0 +1,5 @@
+Nesta tarefa, criei uma função lambda a qual adicionei 3 
+layers, importei as bibliotecas necessárias, e utilizei o 
+código que está presente nessa pasta para puxar os filmes
+de terror dos anos desejados do TMDB para um arquivo json 
+no meu bucket do s3.

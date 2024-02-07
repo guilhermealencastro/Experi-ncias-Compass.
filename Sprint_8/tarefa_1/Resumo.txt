@@ -1,0 +1,2 @@
+Nesta tarefa, criei uma conta no TMDB e usei a minha chave de 
+API para fazer um teste de solicitações.

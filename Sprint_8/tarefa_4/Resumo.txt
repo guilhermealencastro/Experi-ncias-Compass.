@@ -1,0 +1,3 @@
+Nesta tarefa, por meio do script python no ubuntu, realizei 
+as atividades solicitadas, a grande maioria para criar tabelas,
+sejam elas por nomes, nomes e países, escolaridades, ou gerações.

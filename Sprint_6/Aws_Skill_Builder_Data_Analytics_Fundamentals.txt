@@ -1,0 +1,8 @@
+Neste curso, aprendi sobre o processo de planejamento de soluções 
+de análise de dados e os vários processos de data analytics envolvidos. Este curso 
+explica os cinco fatores principais que indicam a necessidade de serviços AWS 
+específicos para a coleta, o processamento, a análise e a apresentação de seus dados.
+Isso inclui o aprendizado de arquiteturas básicas, proposições de valor e possíveis 
+casos de uso. Também vi sobre os serviços e as soluções AWS que ajudam a criar 
+e aprimorar soluções de análise de dados.
+

@@ -1,0 +1,12 @@
+Neste curso, aprendi a identificar e qualificar oportunidades 
+de negócios em análise de dados. Ele foi elaborado para parceiros de 
+consultoria da AWS em funções de líder, vendas e pré-vendas. O curso 
+começa descrevendo oportunidades de mercado e exemplos do setor. Permitindo
+que exploremos a jornada do cliente para uma arquitetura de 
+dados moderna e vimos sobre as cinco soluções essenciais de análise de 
+dados da Amazon Web Services (AWS). Aprendi, também sobre as práticas 
+recomendadas para conversas de descoberta de negócios eficazes e a alinhar 
+soluções de análise de dados de alto nível às importantes iniciativas empresariais 
+dos clientes. Por fim, vi as práticas recomendadas para criar um plano de 
+ação de entrada no mercado e aprenderão sobre os recursos da APN 
+que os parceiros poderão usar para aprimorar seus conhecimentos.

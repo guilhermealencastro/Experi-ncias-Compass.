@@ -1,0 +1,7 @@
+Este curso aborda o uso de análises em casos de uso de jogos. 
+Vi nele sobre o benefício da análise e como os insights 
+podem ser usados para melhorar o design do jogo, aumentar a 
+eficiência das operações do jogo e embasar decisões financeiras 
+e estratégias. Aprendi diferentes fontes e tipos de 
+dados de jogos para uso em business intelligence e como é possível 
+usar o pipeline de análise para converter os dados dos jogos em respostas.

@@ -1,0 +1,5 @@
+Neste curso, foi abordado como o Kinesis Streams é usado 
+para coletar, processar e analisar dados de streaming em
+tempo real para criar insights valiosos. Também foi passada
+uma visão geral dos componentes deste serviço e uma breve 
+demonstração sobre.

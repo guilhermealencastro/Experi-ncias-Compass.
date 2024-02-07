@@ -1,0 +1,4 @@
+Neste curso, fui introduzido ao AWS IoT Analytics, que é um serviço
+totalmente gerenciado que permite executar análises sofisticadas em
+grandes volumes de dados de IoT. Vi também uma análise do AWS IoT,
+uma visão geral da arquitetura de implantação e alguns casos de uso.

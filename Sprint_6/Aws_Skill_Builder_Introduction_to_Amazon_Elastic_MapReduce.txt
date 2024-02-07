@@ -1,0 +1,4 @@
+Neste curso vi uma introdução ao Amazon Elastic MapReduce (EMR) 
+mostrando as ferramentas disponíveis que podem ser usadas com o Amazon EMR e 
+o processo de criação de um cluster. Uma demonstração da abordagem 
+de criação de um cluster com o Amazon EMR.

@@ -1,0 +1,8 @@
+Este curso apresentou o Amazon QuickSight, o serviço 
+de análise de dados de negócios baseado na nuvem que facilita a 
+criação de visualizações, a execução de análises ad-hoc e a rápida 
+obtenção de informações empresariais a partir dos seus dados. Neste 
+curso, vi sobre os benefícios do uso do Amazon QuickSight e como 
+o serviço funciona. O curso também mostrou uma demonstração para que 
+pudessemos ver como é o Amazon QuickSight em ação.
+

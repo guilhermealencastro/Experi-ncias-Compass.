@@ -1,0 +1,7 @@
+Neste curso, vi que os dados dos clientes vêm em todas as formas e de todas as direções. 
+É mais importante do que nunca conectar e processar todos esses dados 
+para permitir mais decisões impulsionadas por dados. Neste curso, vi também
+como sintetizar todos esses diferentes dados usando o poder 
+de ferramentas como AWS IoT Analytics, Amazon Cognito, AWS Lambda e Amazon 
+SageMaker, entre outras. Aprendi a agregar, processar, armazenar e 
+disponibilizar dados úteis de formas inovadoras e poderosas.

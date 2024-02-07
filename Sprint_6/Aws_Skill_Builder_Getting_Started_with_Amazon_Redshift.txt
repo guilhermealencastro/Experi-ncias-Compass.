@@ -1,0 +1,2 @@
+Neste curso, eu aprendi os beneficios e casos tipicos de uso do 
+Amazon RedShift. Também vi uma demonstração do uso do mesmo. 

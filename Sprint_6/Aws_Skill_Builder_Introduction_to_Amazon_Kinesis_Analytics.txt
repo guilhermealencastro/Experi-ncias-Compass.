@@ -1,0 +1,4 @@
+Neste curso, fui introduzido ao Kinesis Analytics, que serve
+para consultar dados de streaming ou criar aplicativos de 
+streaming inteiros usando SQL. Vi como o serviço coleta, processa
+e analisa dados de streaming em tempo real.

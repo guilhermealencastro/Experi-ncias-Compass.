@@ -1,0 +1,5 @@
+Neste curso, eu aprendi sobre os conceitos de implementação de 
+um data warehouse usando o Amazon Redshift. Aprendi também sobre o design 
+básico de tabelas, armazenamento de dados, técnicas de ingestão de dados 
+e gerenciamento de workload. Por fim, aprendi também sobre o efeito do 
+dimensionamento de nó e de cluster.

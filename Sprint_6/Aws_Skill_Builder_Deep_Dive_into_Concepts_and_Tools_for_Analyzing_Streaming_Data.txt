@@ -1,0 +1,8 @@
+Neste curso, vi os conceitos básicos de processamento de 
+streaming e ouvi sobre as estratégias que são comumente usadas para 
+enfrentar os desafios decorrentes da consulta de dados de streaming. 
+Ouvi também sobre diferentes semânticas de tempo, garantias de processamento 
+e entendi como lidar com a reordenação e a chegada tardia de eventos. 
+Também vi os benefícios de gerenciar o estado dentro de um mecanismo 
+de processamento de streaming e sobre como ele muda a maneira como criamos 
+arquiteturas em um domínio de streaming.

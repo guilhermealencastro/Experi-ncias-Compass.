@@ -1,0 +1,5 @@
+Este curso apresenta o serviço Amazon Athena junto com uma 
+visão geral do ambiente operacional. Também são discutidas 
+as etapas básicas da implementação do Amazon Athena. Usando o 
+Console de Gerenciamento da AWS, é realizada uma breve demonstração 
+da criação de um banco de dados para executar consultas SQL para validação.

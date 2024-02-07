@@ -1,0 +1,61 @@
+seção 2: Consegui realizar a instalação do pgAdmin sem problemas, overview explica com tranquilidade tudo
+o que precisamos saber a principio e aprendemos também como criar as tables como no exemplo demonstrado.
+
+seção 3: Aprendi com tranquilidade sobre muitos comandos do SQL, como por exemplo o comando where para 
+procurar em um local especifico e o order by, para ordenar os resultados, seja decrescentemente ou por 
+ordem alfabética, desafio final realizado também sem muita dificuldade.
+
+seção 4: Achei a guia de operadores, em sua maioria, muito intuitiva até o momento, são operadores teo-
+ricamente simples de serem aplicados, a depender sempre do contexto solicitado. Os operadores lógicos 
+são os mais completos pelo que estudei, trazendo uma gama de opções muito grande, o "coringa" chamou mu-
+ito a minha atenção, nunca tinha visto uma busca por um "match imperfeito antes", achei curioso, porém, mu-
+ito interessante.
+
+seção 5: as funções de agregação seguiram um ritmo semelhante as anteriores, porém com uma abordagem um 
+pouco diferente, importante lembrar o fato delas não computarem células vazias (NULL) como zero e o uso 
+do count com o distinct para encontrar valores exclusivos. Já o comando group by serve para agrupar regis
+tros semelhantes de uma coluna, bom para utilizar em conjunto com funções de agregação, vistas anteriormente 
+nessa seção. O comando having consegue filtrar resultados de funções agregadas e não agregadas, já o where
+só consegue filtrar colunas não agregadas.
+
+seção 6: tipos de join, segundo a professora, o left e o inner join são comumente utilizados, já o right e o
+full raramente são usados, porém, foram passados também, left usa os dados da direita que dão match com os seus,
+right o contrário, inner usa os em comum entre left e right e o full usa todos os dados de ambas as tabelas e 
+o que não der match fica como NULL.
+
+seção 7: Union, basicamente existem dois tipos de union, o union ALL e o union propriamente dito, o ALL repete
+as linhas e une as tabelas, independente de possuirem linhas repetidas ou não, já o union faz a checagem e remo-
+ve as linhas repetidas, por isso, é mais pesado na hora de executar.
+
+seção 8: seção sobre subquerys, que permitem que consultemos dados de outras consultas existem quatro tipos, 
+where, select, from e with. O uso da subquery no from pode ser facilmente substituida por uma subquery no with,
+então não é muito recomendado, já a subquery no select costuma ser muito pesada, então não é tão utilizada, 
+porém, existem casos que são necessários, para que as subquerys no where e no select funcionem, elas devem ret-
+ornar apenas um único valor.
+
+seção 9: Na conversão de unidades nós usamos o comando "::" sempre, a não ser quando (por algum motivo) ele 
+falha, ai nós usamos o cast. O "::" é utilizado para transformar texto em outro tipo, colocando o sinal a frente
+do texto seguido pela unidade desejada. Já no CAST() nós passamos o texto dentro dos parenteses seguidos de um as
+com a unidade desejada. Já o CASE WHEN é comumente utilizado para criar respostas especificas para diferentes con-
+dições, enquanto o COALESCE é utilizado para preencher campos nulos com o primeiro valor não nulo de uma sequencia
+de valores. Nos comandos de tratamento de texto, foram apresentados os comandos upper no qual o texto dentro de 
+parenteses fica em letras maiusculas; o lower que deixa o texto em letras minusculas; o trim que retira os espaços
+após o texto; e por ultimo, replace no qual voce coloca um segundo componente após o texto com o que você deseja 
+substituir e um terceiro com a forma final após a substituição.
+
+seção 10: Nessa seção aprendi como criar tables, inserir linhas e valores nelas, delimitar, atualizar e também a de-
+letar as mesmas. A principio parecia um conceito um tanto quanto dificil, mas ao chegar ao final da seção consegui 
+adquirir o conhecimento de forma tranquila, os comandos são simples, apesar de ter tido um pouco de dificuldade ao 
+criar uma table do zero pela primeira vez, porém, ao sequir do curso consegui fazer o restante com tranquilidade. 
+Também aprendi sobre columns e como modificar elas usando o alter table, como adicionar colunas usando o ADD, alterar,
+renomear e também deletar. Foi uma seção de bastante aprendizado pois não tinha conhecimento acerca desse assunto antes
+de ver. Gostei bastante.
+
+seção 11: Utilizamos dos conhecimentos adquiridos ao longo da trilha de aprendizado para realizar um projeto usando sql,
+criamos assim um dashboard de vendas que mostra os resultados de desempenho de um e-commerce mês a mês utilizando queries
+e demonstrando os resultados em gráficos no excel.
+
+seção 12: Mais uma vez utilizamos os conhecimentos adquiridos ao longo do curso para montar queries para resolver uma 
+questão entregue na seção. Dessa vez tinhamos que criar um dashboard que analisasse as principais caracteristicas dos
+leads que visitam o e-commerce. Mais uma vez, os resultados finais foram demonstrados por meio de gráficos no excel, di-
+vidindo entre informações demograficas dos clientes e informações acerca dos interesses dos leads que acessam o site.

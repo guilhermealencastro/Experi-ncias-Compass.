@@ -1,0 +1,43 @@
+2. Nesta seção tivemos uma introdução completa sobre o universo do big
+data, para que é usado, por quem é usado, os seus "4 V's" e quais suas principais
+funções. Não possuia conhecimento acerca do big data antes de realizar o curso, então,
+foi bastante enriquecedor. 
+
+3. Na seção 3 aprendemos sobre o V de volume do big data, o que significa e
+alguns exemplos do mesmo, aprendi também o que é um Data Warehouse e um Data Lake
+e quais suas diferenças e benefícios, aprendi também sobre as diferenças entre bancos de dados 
+relacionais e não relacionais(NoSQL), e, para finalizar, vi sobre data stores e os 
+sistemas híbridos de armazenamento.
+
+4. Nesta seção aprendi sobre clusters de computadores armazenamento paralelo e o conhecido software
+"Apache Hadoop", sobre processamento paralelo em big data e a arquitetura de armazenamento/processa-
+mento paralelo. 
+
+5. Já nesta seção, foi introduzido o conceito de cloud computing, o que é, qual sua ligação com o big
+data, quais os principais provedores em nuvem(cloud) e também tivemos a introdução a aws, onde conhecemos
+um pouco sobre o amazon web services. Também tive a chance de ver uma demonstração do big data na nuvem aws,
+foi uma seção de bastante aprendizado.
+
+6.  Na sexta seção tivemos a introdução do machine learning e do pipeline de machine learning, foi pas-
+ado o que é o machine learning ops e quais tipos de problemas ele pode resolver, também aprendi o que é 
+um engenheiro de machine learning e quais suas funções. A diferença entre dev, ml, al e dataops e também 
+as diferenças entre big e small data. Nessa seção tivemos muitos conceitos sendo passados, então, precisei 
+revisar mais de uma vez para entender de fato.
+
+7. Na sétima seção começamos a estudar sobre os conceitos "as a service", falamos sobre a arquitetura dashboard
+(Data as a Service), seus principais benefícios, também sobre as arquiteturas modernas do big data e aprendi sobre
+os conceitos de data lakehouse e data mesh e suas diferenças. Recebemos também alguns exemplos de soluções co-
+merciais.
+
+8. Nesta seção vimos principalmente sobre a estrutura ETL(extraction, transformation and load) e a diferença com
+a ELT (extraction, load and transformation) e suas principais soluções no mercado, nos foram passados vários exem-
+plos acerca delas. No final dessa seção, ainda tive a oportunidade de ver uma demonstração do uso do ETL e big data.
+
+9. Na seção 9 foi passado sobre big data analytics e como as empresas estão usando o big data atualmente, vi diver-
+sos casos de uso do big data analytics e também como iniciar um projeto de big data, foram passadas, passo a passo, 
+os 5 "steps" para a criação, desde a definição de objetivo até a criação de um "total business value assessment".
+
+10. Na última seção realizei uma "prova" para testar os meus conhecimentos acerca dos assuntos estudados após o final
+do curso, consegui a realizar sem maiores dificuldades, alcançando o resultado de 94% (47 acertos e 3 erros), foram 
+citados em grande maioria os assuntos DW(data warehouses) e DL(data lakes), também sobre as funções do engenheiro de 
+big data e big data analytics, sobre data mesh e hadoop.
